@@ -1,6 +1,9 @@
 {
 	"author": "Merianos",
 	"name": "fcc-learn-npm-package-json",
+  "description": "This is the description",
+  "keywords": ["freecodecamp"],
+  "version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
